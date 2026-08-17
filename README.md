@@ -1,120 +1,80 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MD+Habibullah+Misbah!;" />
-</h1>
+# MD Habibulla Misba
+
+**Software Engineer | AI & Machine Learning | Full-Stack & Distributed Systems**
+
+Final-year Computer Science and Engineering undergraduate at United International University (UIU), with professional interests in artificial intelligence, distributed systems, robotics, and embedded/IoT engineering. Experienced in full-stack development with a solid foundation in data structures, algorithms, and software engineering practices, and committed to building reliable, well-documented, production-grade systems.
+
+---
+
+## About Me
+
+I specialize in designing and building systems that sit at the intersection of software engineering and applied AI — from distributed LLM inference infrastructure to full-stack platforms and embedded systems for robotics. My work spans backend architecture, machine learning pipelines, and DevOps, with a consistent focus on clean design, measurable performance, and thorough documentation.
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB90F&center=true&vCenter=true&width=435&lines=Software+Engineer+%26+AI+Enthusiast;Full-Stack+Developer;IoT+%26+Robotics+Developer;Machine+Learning+Engineer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misbah7172&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbah7172&layout=compact&langs_count=8&theme=default&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=misbah7172&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🚀 About Me
+## Experience
 
-I'm a passionate **Software Engineer** and **AI Enthusiast** specializing in cutting-edge technologies including AI, IoT, Programming, and Robotics. I thrive on transforming complex problems into elegant solutions and creating innovative applications that make a real difference.
+**Software Associate — UIU CanSat Team**
+*Jan 2024 – Present*
+Developing and optimizing embedded software for satellite simulation systems, including data acquisition, sensor integration, and communication protocol design.
 
+**Software Associate — UIU Mars Rover Team**
+*Jan 2023 – Dec 2023*
+Contributed to rover software systems development and integration, including autonomous navigation and system control programming.
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misbah7172&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbah7172&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=misbah7172&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=misbah7172&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<div>
-    ![Total LOC](./README-assets/loc-badge.svg)
-</div>
+**Software Intern — GAO Tek Inc.**
+*Jul 2023 – Sep 2023*
+Focused on code debugging and error resolution, improving code efficiency and reliability across existing modules.
 
 ---
 
-## 🏆 Achievements & Experience
+## Featured Projects
 
-### 🎓 Education
-- **Bachelor's in Computer Science & Engineering** | United International University (2022-2026)
-- **Higher Secondary School Certificate** | Dhanmondi Ideal College - GPA 5.0/5.0
-- **Secondary School Certificate** | Chakaria Grammar School - GPA 5.0/5.0
-
-### 💼 Professional Experience
-- **Software Associate** | UIU CanSat Team (Jan 2024 - Present)
-  - Developing and optimizing embedded software for satellite simulation systems
-  - Working on data acquisition, sensor integration, and communication protocols
-  
-- **Software Associate** | UIU Mars Rover Team (Jan 2023 - Dec 2023)
-  - Contributed to rover software systems development and integration
-  - Autonomous navigation and system control programming
-  
-- **Software Intern** | GAO Tek Inc. (Jul 2023 - Sep 2023)
-  - Code debugging and error fixing specialist
-  - Improved code efficiency and reliability
+- **CAI — Decentralized-Distributed LLM Inference** — Kubernetes, Python, Distributed Systems
+- **MythicOS — AI-Native Agent Development Operating System** — Tauri, Next.js, NestJS, Neo4j, Redis, Python
+- **Galactico — GitHub-Integrated Project Management Tool** — Spring Boot, Java, REST APIs
+- **VAI Radiology LLC — Task & Image Annotation Application** — Next.js, TypeScript, Django REST Framework
+- **E-Commerce Platform** — Next.js, TypeScript, MySQL, Redis
 
 ---
 
-## 📚 Explore My Work
+## Achievements
 
-<div align="center">
-
-### 🚀 Check out my blog posts!
-
-[![Read My Blogs](https://img.shields.io/badge/📝_Read_Blogs-orange?style=for-the-badge&logo=rss)](https://blog-post-u86b.vercel.app/)
-
-</div>
+- **Codex Community Meetup — Regional Speech Recognition Model:** Selected as a winner of $100 in Codex Credits, presented by Cloudly InfoTech Limited and jointly organized by the UIU Computer Club and UIU Data Science Club.
+- **Certificate of Appreciation — NASA CanSat Competition 2025:** Recognized for contributions to the UIU CanSat project as an Associate Member of the Software Team; certificate co-signed by the Team Mentor and Head of the EEE Department, UIU.
 
 ---
 
-## 🌐 Let's Connect!
+## Publications & Writing
 
-<div align="center">
-
-### 📫 Contact Information
-
-**Email**: [misbah244176@gmail.com](mailto:misbah244176@gmail.com) | [mmisba221373@bscse.uiu.ac.bd](mailto:mmisba221373@bscse.uiu.ac.bd)
-
-**Phone**: [+880 1824 032222](tel:+8801824032222)
-
-**Location**: Sayednagar, NotunBazar, Badda, Dhaka-1212, Bangladesh
-
-### 🌟 Social Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-habibulla-misba)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/misbah244176)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/misbah7172)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801824032222)
-
-</div>
+For technical articles and project write-ups, see my blog: [blog-post-u86b.vercel.app](https://blog-post-u86b.vercel.app/)
 
 ---
 
-## 💝 Support My Work
+## Contact
 
-<div align="center">
+**Email:** [misbah244176@gmail.com](mailto:misbah244176@gmail.com) · [mmisba221373@bscse.uiu.ac.bd](mailto:mmisba221373@bscse.uiu.ac.bd)
+**Phone:** [+880 1824-032222](tel:+8801824032222)
+**Location:** Badda, Dhaka 1212, Bangladesh
 
-**Fun Fact**: I believe that technology should be used to solve real-world problems and make life better for everyone! 🌍✨
-
-</div>
+**LinkedIn:** [linkedin.com/in/md-habibulla-misba](https://www.linkedin.com/in/md-habibulla-misba)
+**GitHub:** [github.com/misbah7172](https://github.com/misbah7172)
 
 ---
 
 <div align="center">
-  
-### 🎯 "Turning Ideas into Reality, One Line of Code at a Time"
-
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <sub>Thank you for visiting my profile.</sub>
 </div>
