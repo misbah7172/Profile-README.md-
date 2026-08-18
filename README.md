@@ -15,11 +15,6 @@ I specialize in designing and building systems that sit at the intersection of s
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misbah7172&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbah7172&layout=compact&langs_count=8&theme=default&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=misbah7172&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -71,7 +66,6 @@ For technical articles and project write-ups, see my blog: [blog-post-u86b.verce
 **Location:** Badda, Dhaka 1212, Bangladesh
 
 **LinkedIn:** [linkedin.com/in/md-habibulla-misba](https://www.linkedin.com/in/md-habibulla-misba)
-**GitHub:** [github.com/misbah7172](https://github.com/misbah7172)
 
 ---
 
